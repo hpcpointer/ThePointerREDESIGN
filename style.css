@@ -157,6 +157,15 @@ a {
   text-transform: uppercase;
 }
 
+.top-story img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  display: block;
+  margin: 0 0 1.25rem;
+}
+
+
 .top-story h2 {
   max-width: 850px;
   margin: 0;
