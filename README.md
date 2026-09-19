@@ -1,6 +1,6 @@
 # The Pointer — simplified site structure
 
-This is a clean HTML/CSS-first rebuild based on the supplied Pointer code.
+This is a clean HTML/CSS-first rebuild for The Pointer .
 
 ## Files
 
@@ -10,6 +10,7 @@ This is a clean HTML/CSS-first rebuild based on the supplied Pointer code.
 - `bison-exclusive.html` — Bison Exclusive
 - `postal-bison.html` — Postal Bison
 - `articles/example-article.html` — reusable article template
+- `images` - folder where you add and remove images BASED on article. 
 
 ## Publishing an article
 
@@ -18,10 +19,9 @@ This is a clean HTML/CSS-first rebuild based on the supplied Pointer code.
 3. Replace the section, title, byline/date, and article paragraphs.
 4. Add a headline/teaser/link to `index.html`.
 
-The design intentionally avoids a database, framework, or CMS so it can be tested on GitHub and later uploaded to Hostinger as a normal static website.
 
 ## Notes
 
 - Replace placeholder content before publishing.
-- The Instagram link is currently the existing Pointer Instagram URL from the supplied site.
-- No article images are required.
+- The Instagram link is currently the existing Pointer Instagram URL.
+
